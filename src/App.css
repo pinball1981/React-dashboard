@@ -1,0 +1,25 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.bg-mint-50 {
+  background-color: #f2fef8;
+}
+
+.bg-mint-100 {
+  background-color: #e2fbee;
+}
+
+.hover\:bg-mint-100:hover {
+  background-color: #d0f6e5;
+}
+
+.border-teal-500 {
+  border-color: #319795;
+}
+
+.text-gray-800 {
+  color: #2d3748;
+}
